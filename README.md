@@ -1,3 +1,3 @@
-I'm Zhanarys Zadagerey, this is my courses: 
-Master's of Computer Science - ICT Architect 
+**Master's in Computer Science - ICT Architect **
 University of Pisa. 
+I'm Zhanarys Zadagerey, this is personal notes from all courses that I took.
